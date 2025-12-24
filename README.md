@@ -1,3 +1,4 @@
+
 💡 POT — Manage Work. Smart. Fast. Secure.
 POT is the system that makes your entire workflow fully transparent, organized, and 100% controlled.
 Connect your organization in one unified platform — working hours, tasks, reports, documents… all with a single tap.
@@ -8,6 +9,7 @@ Connect your organization in one unified platform — working hours, tasks, repo
 ✔ Automate and simplify daily operations
 Your organization deserves smarter tools.
 POT is the solution that transforms your workflow starting today.
+POT UI- https://www.figma.com/design/QxyhjcoVBT1uiqWTa5xTuF/POT-Time-traker?node-id=0-1&p=f&t=FdBIVW2PhwwHXSAv-0
 👉 Contact us now to receive a full presentation + live demo
 
  WHAT'S INCLUDED IN POT?
